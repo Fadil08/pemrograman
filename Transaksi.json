@@ -1,0 +1,17 @@
+[
+    {
+        "Barang": "promag",
+        "Jumlah": -1,
+        "Harga": 5000
+    },
+    {
+        "Barang": "paracetamol",
+        "Jumlah": 15,
+        "Harga": 5000
+    },
+    {
+        "Barang": "obh itrasal",
+        "Jumlah": 100,
+        "Harga": 15000
+    }
+]
